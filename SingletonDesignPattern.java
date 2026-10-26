@@ -1,4 +1,15 @@
 
+/*
+
+Definition: -
+
+Ensure a class only has one instance, and provide a global point of access to it.
+
+
+*/
+
+
+
 /**
  *  When ever we need only one object for class and that one object is only visible to every where in application so we
  *  use singleton design pattern

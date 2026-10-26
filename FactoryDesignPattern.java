@@ -1,6 +1,17 @@
 
 /*
 
+Definition: -
+
+Define an interface for creating an object, but let subclasses decide which class to instantiate.
+ Factory Method lets a class defer instantiation to subclasses.
+
+*/
+
+
+
+/*
+
 Simple Factory :- 
                     There will be interface of base and there will be different implementation of 
                     different class but we dont need to create and maintain objects we have to design 
